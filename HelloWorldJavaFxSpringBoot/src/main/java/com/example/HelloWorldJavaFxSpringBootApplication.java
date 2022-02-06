@@ -25,7 +25,7 @@ public class HelloWorldJavaFxSpringBootApplication extends Application {
 fxmlloader.setLocation(getClass().getResource("hello-world.fxml"));
 		
 		Parent root = fxmlloader.load();
-		stage.setTitle("Hello World");
+		stage.setTitle("Hello World mahfoud");
 		Scene scene = new Scene(root);
 		stage.setScene(scene);
 		stage.show();
